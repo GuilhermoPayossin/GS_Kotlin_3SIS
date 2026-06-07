@@ -48,10 +48,10 @@ Criar uma experiência funcional em Android com dados mockados e interações re
 
 ## Telas do aplicativo
 
-[INSERIR PRINT DA HOME]
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/881fe2da-1d3f-482e-b300-e102ff9d590e" />
 
-[INSERIR PRINT DO DASHBOARD]
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e45052a-9437-4367-8c17-c172381fd089" />
 
-[INSERIR PRINT DOS OBJETOS ORBITAIS]
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe9e5eed-0fb0-4d2c-aa07-366103b524e1" />
 
-[INSERIR PRINT DAS ZONAS DE RISCO]
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b4b8f624-7b50-4013-9f46-4c148cab45c4" />
